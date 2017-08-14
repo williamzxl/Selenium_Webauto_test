@@ -1,0 +1,4 @@
+uname=maizi_test@139.com;pwd=abc123456
+uname=123;pwd=1234
+uname= ;pwd=123
+uname=123@qq.com;pwd=
